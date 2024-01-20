@@ -53,3 +53,10 @@ body.dark-theme header, body.dark-theme footer {
 body.dark-theme nav ul li a {
     color: #fff;
 }
+
+#snakeGame {
+    background-color: #f0f0f0;
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
